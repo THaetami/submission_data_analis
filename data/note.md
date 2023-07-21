@@ -1,0 +1,1 @@
+sumber data bisa didownload [disini.](https://divvy-tripdata.s3.amazonaws.com/index.html)
